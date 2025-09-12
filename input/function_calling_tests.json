@@ -36,9 +36,6 @@
     "prompt": "What is the product of 12 and 4?"
   },
   {
-    "prompt": "Greet shrek"
-  },
-  {
     "prompt": "Greet john"
   }
 ]
